@@ -10,7 +10,7 @@ LATITUDE = '46.4667'
 LONGITUDE = '6.8616'
 ALTITUDE = 500
 MAX_PASSES = 12
-MIN_ELEVATION = 10.0
+MIN_ELEVATION = 0
 LOCAL_TIMEZONE = ZoneInfo("Europe/Zurich")
 
 TLE_URL = 'https://www.celestrak.com/NORAD/elements/stations.txt'

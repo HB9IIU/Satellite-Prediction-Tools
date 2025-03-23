@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54a1cf8f-ae70-49ab-97b9-8ee401753f26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/next passes with skyfield including SUN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sun basic.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next passes with pyephem.py" beforeDir="false" afterPath="$PROJECT_DIR$/next passes with pyephem.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,29 +34,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.compare_pyephem_skyfield.executor&quot;: &quot;Run&quot;,
-    &quot;Python.comparison.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.next passes with pyephem.executor&quot;: &quot;Run&quot;,
-    &quot;Python.next passes with skyfield including SUN.executor&quot;: &quot;Run&quot;,
-    &quot;Python.next passes with skyfield.executor&quot;: &quot;Run&quot;,
-    &quot;Python.next passes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sun basic.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/danielstaempfli/SynologyDrive/ZZ_GITHUB_NEW/Satellite-Prediction-Tools&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.compare_pyephem_skyfield.executor": "Run",
+    "Python.compare_pyephem_skyfield_1.executor": "Run",
+    "Python.compare_pyephem_skyfield_2.executor": "Run",
+    "Python.comparison.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.next passes with pyephem.executor": "Run",
+    "Python.next passes with skyfield including SUN.executor": "Run",
+    "Python.next passes with skyfield.executor": "Run",
+    "Python.next passes.executor": "Run",
+    "Python.sun basic.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/danielstaempfli/SynologyDrive/ZZ_GITHUB_NEW/Satellite-Prediction-Tools",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Python.next passes with skyfield including SUN">
+}]]></component>
+  <component name="RunManager" selected="Python.next passes with pyephem">
     <configuration name="compare_pyephem_skyfield_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Satellite-Prediction-Tools" />
       <option name="ENV_FILES" value="" />
@@ -104,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="next passes with pyephem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Satellite-Prediction-Tools" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,7 +119,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/next passes with pyephem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sun basic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="next passes with skyfield" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Satellite-Prediction-Tools" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,7 +165,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sun basic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/next passes with skyfield.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.next passes with skyfield including SUN" />
-        <item itemvalue="Python.sun basic" />
+        <item itemvalue="Python.next passes with pyephem" />
+        <item itemvalue="Python.next passes with skyfield" />
         <item itemvalue="Python.compare_pyephem_skyfield_2" />
-        <item itemvalue="Python.main" />
         <item itemvalue="Python.compare_pyephem_skyfield_1" />
+        <item itemvalue="Python.next passes with skyfield including SUN" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +200,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742670850348</updated>
-      <workItem from="1742670851447" duration="3046000" />
+      <workItem from="1742670851447" duration="4013000" />
     </task>
     <servers />
   </component>
@@ -223,13 +224,15 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Satellite_Prediction_Tools$next_passes_with_pyephem.coverage" NAME="next passes with pyephem Coverage Results" MODIFIED="1742671028251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Satellite_Prediction_Tools$next_passes_with_skyfield_including_SUN.coverage" NAME="next passes with skyfield including SUN Coverage Results" MODIFIED="1742674053558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Satellite_Prediction_Tools$next_passes_with_skyfield_including_SUN.coverage" NAME="next passes with skyfield including SUN Coverage Results" MODIFIED="1742674266673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Satellite_Prediction_Tools$next_passes_with_pyephem.coverage" NAME="next passes with pyephem Coverage Results" MODIFIED="1742713947338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Satellite_Prediction_Tools$compare_pyephem_skyfield_1.coverage" NAME="compare_pyephem_skyfield_1 Coverage Results" MODIFIED="1742713841010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Satellite_Prediction_Tools$compare_pyephem_skyfield.coverage" NAME="compare_pyephem_skyfield Coverage Results" MODIFIED="1742671671409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Satellite_Prediction_Tools$main.coverage" NAME="main Coverage Results" MODIFIED="1742671655269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Satellite_Prediction_Tools$next_passes_with_skyfield.coverage" NAME="next passes with skyfield Coverage Results" MODIFIED="1742671161530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Satellite_Prediction_Tools$next_passes.coverage" NAME="next passes Coverage Results" MODIFIED="1742671625584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Satellite_Prediction_Tools$next_passes_with_skyfield.coverage" NAME="next passes with skyfield Coverage Results" MODIFIED="1742713915395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Satellite_Prediction_Tools$comparison.coverage" NAME="comparison Coverage Results" MODIFIED="1742671638656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Satellite_Prediction_Tools$sun_basic.coverage" NAME="sun basic Coverage Results" MODIFIED="1742672977786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Satellite_Prediction_Tools$compare_pyephem_skyfield_2.coverage" NAME="compare_pyephem_skyfield_2 Coverage Results" MODIFIED="1742713847989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
